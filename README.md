@@ -1,8 +1,6 @@
-<<<<<<< .merge_file_kiKfvG
-# maven-project.  ...     hihio
-=======
-# maven-project.  ...bewjdbkjdj
->>>>>>> .merge_file_A2zRfJ
+
+# maven-project
+
 
 This is my Maven project from MuleSoft's advanced development class
 
